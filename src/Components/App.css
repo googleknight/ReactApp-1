@@ -1,0 +1,46 @@
+.container{
+  background-color: black;
+  height:90vh;
+  width:90vh;
+}
+/*html{
+  background-color:lightgrey;
+}
+.board{
+  width:727px;
+  height:600px;
+  border-radius: 7px;
+  position: fixed;
+  top: 16%;
+  left: 30%;
+}
+
+.upperboard{
+  width:725px;
+  height:323px;
+  border-radius: 7px 7px 0 0;
+  position: relative;
+  
+}
+.lowerboard{
+  width:725px;
+  height:320px;
+  border-radius: 0 0 7px 7px;
+  position: relative;
+  background-color:white;
+}
+.circle{
+  top: 50px;
+  left: 32px;
+  width: 130px;
+	height: 130px;
+  background: #75cfe9;
+  position: relative;
+  color: white;
+  text-align: vertical-align;
+  size: 10; 
+	border-radius: 100%;
+}
+.buttons{
+  display: inline;
+}*/

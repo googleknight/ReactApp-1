@@ -1,0 +1,29 @@
+.lowerModal{
+    display:flex;
+    flex-direction: column;
+    flex:1;
+    padding: 10px;
+}
+.buttonGroup{
+    display:flex;
+    flex:1;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.button-Cancel{
+    color:#a4a0a4;
+    border: none;
+    padding: 20px;
+    font-size: 2em;
+}
+.button-Save{
+    color:#9acf50;
+    border: none;
+    padding: 20px;
+    font-size: 2em;
+}
+.lowerModal-text{
+    color:#6d675d;
+    flex: 1;
+}

@@ -1,0 +1,9 @@
+.modal-container{
+    display: flex;
+    flex-direction: column;
+    width:90%;
+    height:90%;
+    padding: 5vh 10vh 15vh 5vh;
+    border-radius: 7px;
+    background-color:#ffffff;   
+}
